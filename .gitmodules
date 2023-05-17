@@ -1,0 +1,4 @@
+[submodule "ivy"]
+	path = ivy
+	url = https://github.com/unifyai/ivy
+	branch = master
